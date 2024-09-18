@@ -1,0 +1,30 @@
+[submodule "Case2/Lite3_rl_training"]
+	path = Case2/Lite3_rl_training
+	url = https://github.com/DeepRoboticsLab/Lite3_rl_training
+[submodule "Case3/Lite3_MotionSDK"]
+	path = Case3/Lite3_MotionSDK
+	url = https://github.com/DeepRoboticsLab/Lite3_MotionSDK
+[submodule "Case5/Deep_Motor_SDK"]
+	path = Case5/Deep_Motor_SDK
+	url = https://github.com/DeepRoboticsLab/Deep_Motor_SDK
+[submodule "Case6/Lite3_VMC"]
+	path = Case6/Lite3_VMC
+	url = https://github.com/DeepRoboticsLab/Lite3_VMC
+[submodule "Case7/Lite3_rl_training"]
+	path = Case7/Lite3_rl_training
+	url = https://github.com/DeepRoboticsLab/Lite3_rl_training
+[submodule "Case7/Lite3_rl_deploy"]
+	path = Case7/Lite3_rl_deploy
+	url = https://github.com/DeepRoboticsLab/Lite3_rl_deploy
+[submodule "Case8/Lite3_SLAM"]
+	path = Case8/Lite3_SLAM
+	url = https://github.com/DeepRoboticsLab/Lite3_SLAM
+[submodule "Case9/Lite3_Navigation"]
+	path = Case9/Lite3_Navigation
+	url = https://github.com/DeepRoboticsLab/Lite3_Navigation
+[submodule "Case10/Lite3_Track"]
+	path = Case10/Lite3_Track
+	url = https://github.com/DeepRoboticsLab/Lite3_Track
+[submodule "Case11/GPT4-RobotDog"]
+	path = Case11/GPT4-RobotDog
+	url = https://github.com/DayDreammy/GPT4-RobotDog
