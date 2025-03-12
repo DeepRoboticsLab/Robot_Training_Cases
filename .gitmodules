@@ -28,3 +28,6 @@
 [submodule "Case11/GPT4-RobotDog"]
 	path = Case11/GPT4-RobotDog
 	url = https://github.com/DayDreammy/GPT4-RobotDog
+[submodule "Case11_New/Lite3_LLM"]
+	path = Case11_New/Lite3_LLM
+	url = https://github.com/DeepRoboticsLab/Lite3_LLM.git
