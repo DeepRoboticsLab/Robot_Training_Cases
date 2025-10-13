@@ -1,5 +1,11 @@
 # 智能四足机器人Lite3实训案例集
 本仓库为基于杭州云深处科技的教育科研类四足机器人产品Lite3激光版的实训案例参考资料内容。
+
+```bash
+# 代码下载
+git clone --recurse-submodule https://github.com/DeepRoboticsLab/Robot_Training_Cases.git
+```
+
 ## 目录
 ###  1. [基础知识及操作体验](./Case1/)
 ###  2. [仿真环境及部署](./Case2/)
