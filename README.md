@@ -4,7 +4,7 @@
 ```bash
 # 代码下载
 git clone --recurse-submodule https://github.com/DeepRoboticsLab/Robot_Training_Cases.git
-# 若下载的子模块缺失，请在代码所在文件夹打开一个终端，输入并执行以下命令
+# 若下载的代码中出现子模块缺失的情况，请在代码所在文件夹打开一个终端，输入并执行以下命令
 git submodule update --init --recursive
 ```
 
